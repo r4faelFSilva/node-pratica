@@ -1,5 +1,3 @@
-https://www.alura.com.br/artigos/metodo-kanban
-
 Introdução
 
 Mesmo que você nunca tenha trabalhado ou estudado Kanban, se você trabalha com agilidade, é muito provável que já tenha ouvido alguma dessas frases:
